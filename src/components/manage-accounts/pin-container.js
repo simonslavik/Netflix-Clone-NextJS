@@ -1,6 +1,6 @@
 "use client";
 
-import PinInput from "react-pin-input";
+ import OtpInput from "react-otp-input";
 
 export default function PinContainer({
   showPinContainer,
